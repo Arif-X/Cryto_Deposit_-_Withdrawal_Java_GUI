@@ -11,7 +11,7 @@ public class Koneksi {
     private String jdbc = "jdbc:mysql://";
     private String host = "localhost:";
     private String port = "3306/";
-    private String database = "coba_pbo";
+    private String database = "database_crud";
     private String url = jdbc + host + port + database;
     private String username = "root";
     private String password = "";
